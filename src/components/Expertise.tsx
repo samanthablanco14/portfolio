@@ -30,7 +30,7 @@ const labelsSecond = [
 ];
 
 const labelsThird = [
-  "STEM Education",
+  "Engineering Education",
   "Teaching Development",
   "Lesson Planning",
   "Student Support",
@@ -79,7 +79,7 @@ function Expertise() {
 
           <div className="skill">
             <FontAwesomeIcon icon={faChalkboardUser} size="3x" />
-            <h3>STEM Education & Teaching Development</h3>
+            <h3>Engineering Education & Teaching Development</h3>
             <p>
               I am also developing my teaching skills with the goal of
               contributing to the STEM community through education, supporting
