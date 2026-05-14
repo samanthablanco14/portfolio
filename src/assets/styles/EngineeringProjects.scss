@@ -10,8 +10,9 @@
 
 .engineering-projects-grid {
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 2rem;
+  align-items: stretch;
 }
 
 .engineering-project-card {
@@ -21,6 +22,7 @@
   padding: 2rem;
   text-align: left;
   box-shadow: 0 6px 18px rgba(124, 106, 138, 0.08);
+  height: 100%;
 }
 
 .engineering-project-card h2 {
