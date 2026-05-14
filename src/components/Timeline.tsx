@@ -34,7 +34,22 @@ function Timeline() {
               sustainability and STEM education.
             </p>
           </VerticalTimelineElement>
-
+<VerticalTimelineElement
+  className="vertical-timeline-element--work"
+  date="Mar 2026 - Present"
+  iconStyle={{ background: "#5000ca", color: "#fff" }}
+  icon={<FontAwesomeIcon icon={faBriefcase} />}
+>
+  <h3 className="vertical-timeline-element-title">
+    Graduate Student Program Associate
+  </h3>
+  <h4 className="vertical-timeline-element-subtitle">
+    Florida International University
+  </h4>
+  <p>
+    Student Outreach, Program Coordination, Social Media Strategy, Academic Engagement
+  </p>
+</VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
             date="Jan 2024 - Dec 2024"
