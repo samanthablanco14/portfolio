@@ -7,6 +7,7 @@ function App() {
       <Navigation />
       <Main />
       <Expertise />
+      <EngineeringProjects />
       <Timeline />
       <Project />
       <Contact />
