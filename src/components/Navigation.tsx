@@ -17,6 +17,7 @@ import Toolbar from "@mui/material/Toolbar";
 const drawerWidth = 240;
 const navItems = [
   ["Expertise", "expertise"],
+  ["Projects", "engineering-projects"],
   ["Experience & Education", "history"],
   ["Teaching Portfolio", "projects"],
   ["Contact", "contact"],
