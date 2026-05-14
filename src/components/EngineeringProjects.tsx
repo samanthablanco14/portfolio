@@ -65,7 +65,7 @@ function EngineeringProjects() {
         </div>
 
         <div className="engineering-project-card">
-          <h2>Energy-Saving Guide for University Building</h2>
+          <h2>Energy Efficiency and Sustainability Assessment</h2>
           <h4>Bachelor’s Thesis</h4>
 
           <div className="project-tags">
